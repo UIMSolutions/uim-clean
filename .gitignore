@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-clean
+uim-clean.so
+uim-clean.dylib
+uim-clean.dll
+uim-clean.a
+uim-clean.lib
+uim-clean-test-*
+*.exe
+*.o
+*.obj
+*.lst
